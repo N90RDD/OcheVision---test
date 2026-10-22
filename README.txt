@@ -1,0 +1,1 @@
+OcheVision Arthur test bundle. Upload index.html AND caller/Arthur folder together to the root of GitHub Pages. Arthur pack comes from a third-party source; redistribution rights are not verified. Do not publicly publish the MP3 files until licensing is confirmed. Keep a backup of your working site.
